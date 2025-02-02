@@ -1,0 +1,24 @@
+p>img {
+  width: 25%; /* La largeur de l'image sera 50% de l'élément parent */
+  height: alto; /* La hauteur sera ajustée automatiquement pour maintenir le ratio */
+}
+ p{
+	color:black;
+	font-family: Arial;
+	font-size:18;
+}
+
+  body {
+            background-color: white; /* Couleur initiale de la page */
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+
+
+
+
+	
+	
+	
